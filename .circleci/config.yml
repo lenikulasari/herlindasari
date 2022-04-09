@@ -20,11 +20,7 @@ commands:
           command: |
             ./hapus
 
-      - run:
-          name: RunUp_03
-          command: |
-            ./h
-
+      - run: ls -a
 
 
 
